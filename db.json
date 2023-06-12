@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "titulo": "Cuándo usar let, var y const? #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-3.png",
+      "categoria": "2",
+      "descripcion": "Cuándo usar let, var y const? #AluraMás",
+      "codigo": "12345678",
+      "id": "1"
+    },
+    {
+      "titulo": "¿Qué es JavaScript?",
+      "link_video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-6.png",
+      "categoria": "2",
+      "descripcion": "¿Qué es JavaScript?s",
+      "codigo": "12345678",
+      "id": "2"
+    },
+    {
+      "titulo": "Equipo Front End #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-4.png",
+      "categoria": "2",
+      "descripcion": "Equipo Front End #AluraMás",
+      "codigo": "12345678",
+      "id": "3"
+    },
+    {
+      "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-7.png",
+      "categoria": "3",
+      "descripcion": "Spring Framework. ¿Qué es ? #AluraMás",
+      "codigo": "12345678",
+      "id": "4"
+    },
+    {
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "link_video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-3.png",
+      "categoria": "3",
+      "descripcion": "¿Qué es SQL y NoSQL?",
+      "codigo": "12345678",
+      "id": "5"
+    },
+    {
+      "titulo": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-1.png",
+      "categoria": "3",
+      "descripcion": "Simplificando tu código en Java: Conoce los enum #AluraMás",
+      "codigo": "12345678",
+      "id": "6"
+    },
+    {
+      "titulo": "¿Qué son las Soft Skills?",
+      "link_video": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-5.png",
+      "categoria": "4",
+      "descripcion": "¿Qué son las Soft Skills?",
+      "codigo": "12345678",
+      "id": "7"
+    },
+    {
+      "titulo": "¿Qué son las metodologias ágiles?",
+      "link_video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-8.png",
+      "categoria": "4",
+      "descripcion": "¿Qué son las metodologias ágiles?",
+      "codigo": "12345678",
+      "id": "8"
+    },
+    {
+      "titulo": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "link_video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+      "link_imagen": "https://ik.imagekit.io/julioxp029/aluraflix/video-2.png",
+      "categoria": "4",
+      "descripcion": "7 Soft Skills más deseadas por las empresas #AluraMás",
+      "codigo": "12345678",
+      "id": "9"
+    }
+  ],
+  "categorias": [
+    {
+      "nombre": "Front End",
+      "descripcion": "Formación de Front End de Alura Latam",
+      "color": "#6bd1ff",
+      "codigo": "1",
+      "id": "2"
+    },
+    {
+      "nombre": "Back End",
+      "descripcion": "Formación de Back End de Alura Latam",
+      "color": "#00c86f",
+      "codigo": "2",
+      "id": "3"
+    },
+    {
+      "nombre": "Innovación y Gestión modificado",
+      "descripcion": "Formación de metodologías ágiles de Alura Latam",
+      "color": "#fe8c2a",
+      "codigo": "3",
+      "id": "4"
+    }
+  ]
+}
