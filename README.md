@@ -1,6 +1,6 @@
 ## Descripción del proyecto  
 
-AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cual consistio en crear una applicación web que sirva de repositorio de videos de youtube, en el cual dichos videos estarán clasificados por categorías. 
+AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. Gracias a la colaboracion de los estudiantes que estamos cursando y el apoyo en el canal de discord se pudo cumplir con el Challenge. 
 
 ## Tecnologías utilizadas
 - React
